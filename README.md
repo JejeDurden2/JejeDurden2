@@ -29,10 +29,10 @@ A four-room bed and breakfast in Flassans-sur-Issole, Provence: rooms, rates and
 
 ## The Destiny series
 
-<a href="https://jeromedesmares.dev/en/bball-destiny"><img src="assets/bball-destiny.png" width="100%" alt="Play Bball Destiny" /></a>
+<a href="https://bballdestiny.com"><img src="assets/bball-destiny.png" width="100%" alt="Play Bball Destiny" /></a>
 
 <samp>BASKETBALL · NBA CAREER SIMULATOR · FREE</samp><br>
-Start at 16, make the calls and see how far your career goes, from high school to the Hall of Fame.
+Start at 16, make the calls and see how far your career goes, from high school to the Hall of Fame. Play it on [bballdestiny.com](https://bballdestiny.com).
 
 <a href="https://jeromedesmares.dev/en/br-destiny"><img src="assets/br-destiny.png" width="100%" alt="Play BR Destiny" /></a>
 
